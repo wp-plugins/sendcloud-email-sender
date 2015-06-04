@@ -244,7 +244,7 @@ $myresult = json_encode ( $responseData );
 		<div class="tab-pane active" id="tab-send" role="tabpanel">
 			<br>
 			<div class="tool">
-				<form action="admin.php?page=sendcloud/admin/data_center.php"
+				<form action="admin.php?page=sendcloud-email-sender/admin/data_center.php"
 					method="post" class="form row">
 					<div class="col-md-2">
 						<div class="form-group">

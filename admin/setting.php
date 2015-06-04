@@ -51,7 +51,7 @@ if (isset ( $action ) && $action == 'update') {
 ?>
 
 <div style="padding: 15px">
-	<form action="admin.php?page=sendcloud/admin/setting.php" method="post">
+	<form action="admin.php?page=sendcloud-email-sender/admin/setting.php" method="post">
 		<input type="hidden" name="action" value="update" />
 		<div class="panel panel-default">
 			<div class="panel-heading"><?php _e('Basic Setting',SENDCLOUD_I18N_DOMAIN)?></div>
