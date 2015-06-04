@@ -5,7 +5,7 @@
  * Description: The subscribers will receive email notifications when a new post is published. The users who are related with these comments will receive email notifications when a new comment is replied. you can monitor the sending email data from data center
  * Version: 1.0
  * Author: SendCloud
- * Author URI: http://sendcloud.sohu.com/aboutUs.html#contact
+ * Author URI: http://sendcloud.sohu.com/
  */
 ?>
 
