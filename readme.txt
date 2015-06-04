@@ -9,7 +9,7 @@ License: GPLv2 or later
 The SendCloud allows you to send email to your subscribers  if your blog has updates. you can monitor the sending email data from data center
 == Description ==
 
-Major features in Akismet include:
+Major features in SendCloud include:
 
 * Post Published Reminder: The subscribers will receive email notifications when a new post is published.
 * Post Commented Reminder: The users  who are related with these comments will receive email notifications when a new comment is posted.
