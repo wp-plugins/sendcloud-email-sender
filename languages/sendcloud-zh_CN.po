@@ -1,0 +1,286 @@
+# Copyright (C) 2015 SendCloud
+# This file is distributed under the same license as the SendCloud package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SendCloud 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/sendcloud\n"
+"POT-Creation-Date: 2015-05-22 06:39:20+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-05-26 21:03+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.7.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh_CN\n"
+
+#: admin/data_center.php:22 admin/setting.php:31 admin/subscribe.php:24
+msgid "create api_user error!"
+msgstr "create api_user error!"
+
+#: admin/data_center.php:28 admin/setting.php:69 sd_tool.php:55
+msgid "Post Published Reminder"
+msgstr "文章发布提醒"
+
+#: admin/data_center.php:29 admin/setting.php:72 sd_tool.php:56
+msgid "Post Commented Reminder"
+msgstr "文章评论提醒"
+
+#: admin/data_center.php:164 admin/data_center.php:292
+#: admin/data_center.php:369
+msgid "Request"
+msgstr "请求"
+
+#: admin/data_center.php:165 admin/data_center.php:317
+#: admin/data_center.php:371
+msgid "Invalid Email"
+msgstr "无效邮件"
+
+#: admin/data_center.php:166 admin/data_center.php:302
+#: admin/data_center.php:370
+msgid "Send"
+msgstr "发送"
+
+#: admin/data_center.php:167 admin/data_center.php:349
+#: admin/data_center.php:373
+msgid "Spam Report"
+msgstr "垃圾邮件报告"
+
+#: admin/data_center.php:168 admin/data_center.php:333
+#: admin/data_center.php:372
+msgid "Soft Bounce"
+msgstr "软退信"
+
+#: admin/data_center.php:169 admin/data_center.php:463
+#: admin/data_center.php:516
+msgid "Open"
+msgstr "打开"
+
+#: admin/data_center.php:170 admin/data_center.php:478
+#: admin/data_center.php:517
+msgid "Independent Open"
+msgstr "独立打开"
+
+#: admin/data_center.php:171 admin/data_center.php:492
+#: admin/data_center.php:518
+msgid "Unsubscribe"
+msgstr "取消订阅"
+
+#: admin/data_center.php:216
+msgid "Sending Summary"
+msgstr "发送情况统计"
+
+#: admin/data_center.php:218
+msgid "Tracking Summary"
+msgstr "追踪情况统计"
+
+#: admin/data_center.php:228 admin/data_center.php:400
+msgid "Email Type"
+msgstr "邮件类型"
+
+#: admin/data_center.php:232 admin/data_center.php:404
+msgid "All"
+msgstr "所有"
+
+#: admin/data_center.php:247 admin/data_center.php:419
+msgid "Statistical Dimension"
+msgstr "统计维度"
+
+#: admin/data_center.php:251 admin/data_center.php:423
+msgid "Count per day"
+msgstr "按天统计"
+
+#: admin/data_center.php:254 admin/data_center.php:426
+msgid "Count per domain"
+msgstr "按域名统计"
+
+#: admin/data_center.php:261 admin/data_center.php:433
+msgid "Statistical Time"
+msgstr "统计时段"
+
+#: admin/data_center.php:263 admin/data_center.php:435
+msgid "Today"
+msgstr "今天"
+
+#: admin/data_center.php:264 admin/data_center.php:436
+msgid "Yesterday"
+msgstr "昨天"
+
+#: admin/data_center.php:265 admin/data_center.php:437
+msgid "The last 7 days"
+msgstr "最近 7 天"
+
+#: admin/data_center.php:266 admin/data_center.php:438
+msgid "The last 30 days"
+msgstr "最近 30 天"
+
+#: admin/data_center.php:267 admin/data_center.php:272
+#: admin/data_center.php:439 admin/data_center.php:444
+msgid "Customize"
+msgstr "自定义"
+
+#: admin/data_center.php:279 admin/data_center.php:450
+msgid "Search"
+msgstr "搜索"
+
+#: admin/data_center.php:368 admin/data_center.php:515
+msgid "Date"
+msgstr "日期"
+
+#: admin/data_center.php:541 admin/data_center.php:587
+#: admin/data_center.php:602
+msgid "Send Chart"
+msgstr "发送走势图"
+
+#: admin/data_center.php:542
+msgid "Num"
+msgstr "num"
+
+#: admin/data_center.php:593 admin/data_center.php:598
+msgid "Tracking Chart"
+msgstr "跟踪走势图"
+
+#: admin/setting.php:39
+msgid "Subscription confirmation email from \"%s\""
+msgstr "来自 “%s” 的订阅确认邮件"
+
+#: admin/setting.php:49
+msgid "Basic Setting"
+msgstr "基本设置"
+
+#: admin/setting.php:52 admin/subscribe.php:46
+msgid "Email Address"
+msgstr "邮件地址"
+
+#: admin/setting.php:54
+msgid ""
+"Please fill in the real common email address to receive the official update "
+"information!"
+msgstr "请填写真实常用邮箱，便于接收官方更新信息！"
+
+#: admin/setting.php:57
+msgid "Sender Display"
+msgstr "发件人显示"
+
+#: admin/setting.php:64
+msgid "Email Setting"
+msgstr "邮件设置"
+
+#: admin/setting.php:79
+msgid "Open Post Published Reminder"
+msgstr "是否开启文章发布提醒"
+
+#: admin/setting.php:80
+msgid ""
+"After the opening, when a new post published, subscriber will receive this "
+"welcome email."
+msgstr "开启后当有新文章发布时，订阅了此站点用户都会收到这份欢迎邮件"
+
+#: admin/setting.php:84 admin/setting.php:132
+msgid "Yes"
+msgstr "是"
+
+#: admin/setting.php:88 admin/setting.php:136
+msgid "No"
+msgstr "No"
+
+#: admin/setting.php:93 admin/setting.php:141
+msgid "Email Title"
+msgstr "邮件标题"
+
+#: admin/setting.php:94 admin/setting.php:108 admin/setting.php:142
+#: admin/setting.php:156
+msgid "The email title and email content cannot be modified!"
+msgstr "邮件标题和邮件内容不可修改"
+
+#: admin/setting.php:99 sendcloud.php:121
+msgid "Dear,  your subscription $sitename is updated!"
+msgstr "亲爱的，您订阅的$sitename又有更新啦"
+
+#: admin/setting.php:107 admin/setting.php:155
+msgid "Email Content"
+msgstr "邮件内容"
+
+#: admin/setting.php:113 sendcloud.php:122
+msgid ""
+"Dear subscribers, $sitename has new interesting updates! Click to view the "
+"latest posts: <a href=\"$posturl\">$postname</a>"
+msgstr ""
+"亲爱的订阅用户，$sitename上又有您感兴趣的内容更新啦！，立即点击查看最新文章："
+"<a href='$posturl'>《$postname》</a>"
+
+#: admin/setting.php:121 admin/setting.php:169
+msgid "Save"
+msgstr "保存"
+
+#: admin/setting.php:127
+msgid "Open Post Commented Reminder"
+msgstr "是否开启文章评论提醒"
+
+#: admin/setting.php:128
+msgid ""
+"After the opening, the comments related users including the author of the "
+"post, the author of the comment will receive this email reminder."
+msgstr "开启后与此评论相关的用户包括文章作者，评论作者都会收取到这份提醒邮件"
+
+#: admin/setting.php:147 sendcloud.php:144 sendcloud.php:270
+msgid "Your post has a new comment on $sitename!"
+msgstr "您在$sitename的文章又有新评论啦！"
+
+#: admin/setting.php:161 sendcloud.php:146
+msgid ""
+"Dear $user, your focus on $sitename has a new comment! Open the link<a href="
+"\"$posturl\">$postname</a>, and see the latest comments!"
+msgstr ""
+"亲爱的$user，您在$sitename关注的文章，又有新评论啦！赶紧打开<a "
+"href='$posturl'>《$postname》</a>，看看你最新的文章评论吧！"
+
+#: sendcloud.php:94
+msgid "Setting"
+msgstr "设置"
+
+#: sendcloud.php:95
+msgid "Data Center"
+msgstr "数据中心"
+
+#: sendcloud.php:96
+msgid "Subscriber"
+msgstr "订阅者"
+
+#: sendcloud_widget.php:5
+msgid "Site Update Subscriber"
+msgstr "站点更新订阅"
+
+#: sendcloud_widget.php:6
+msgid ""
+"This widget can collect your site subscribers. SendCloud will send e-mail to "
+"inform them once the site updated。"
+msgstr ""
+"使用此挂件可以收集您站点订阅者，在您站点有更新时，SendCloud会第一时间发送邮件"
+"通知他们。"
+
+#: sendcloud_widget.php:17
+msgid "please login email,click confirm link"
+msgstr "请登录邮箱，点击确认链接"
+
+#: sendcloud_widget.php:18
+msgid "Don't want to miss any changes? The mail subscription us"
+msgstr "不想错过任何的变化？邮件订阅我们"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "SendCloud"
+msgstr "sendcloud"
+
+#. Plugin URI of the plugin/theme
+msgid "http://sendcloud.sohu.com/"
+msgstr "http://sendcloud.sohu.com/"
+
+#. Description of the plugin/theme
+msgid "This plugin allows you to send email to reply post users"
+msgstr "This plugin allows you to send email to reply post users"
+
+#. Author URI of the plugin/theme
+msgid "http://sendcloud.sohu.com/aboutUs.html#contact"
+msgstr "http://www.ttcwetranslate.com/contact/"
