@@ -53,7 +53,10 @@ if (! function_exists ( 'sendcloud_js_css_admin_head' )) {
 		if (in_array ( $hook_suffix, array (
 				'sendcloud/admin/data_center.php', // dashboard
 				'sendcloud/admin/setting.php',
-				'sendcloud/admin/subscribe.php' 
+				'sendcloud/admin/subscribe.php',
+				'sendcloud-email-sender/admin/data_center.php',
+				'sendcloud-email-sender/admin/setting.php',
+				'sendcloud-email-sender/admin/subscribe.php' 
 		) )) {
 			wp_register_style ( 'sendcloud_bootstrap.min.css', sdURL . 'css/bootstrap.min.css', array () );
 			wp_register_style ( 'sendcloud_daterangepicker-bs3.css', sdURL . 'css/daterangepicker-bs3.css', array () );
