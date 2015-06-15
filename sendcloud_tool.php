@@ -25,8 +25,8 @@ function sendcloud_create_api_user() {
 		$result = $sd->getAccount ( get_option ( 'siteurl' ), get_option ( 'sendcloud_email' ) );
 		if ($result->message == 'success') {
 			$data = array (
-					'api_user' => $result->apiUserInfo->apiUser/*'postmaster@delongbat.sendcloud.org'*/,
-					'api_key' => $result->apiUserInfo->apiKey/*'longde'*/,
+					'api_user' => $result->apiUserInfo->apiUser,
+					'api_key' => $result->apiUserInfo->apiKey,
 					'from' => $result->apiUserInfo->fromEmail,
 					'fromname' => get_option ( 'blogname' ),
 					'datetime' => date ( 'Y-m-d H:i:s', time () ) 
