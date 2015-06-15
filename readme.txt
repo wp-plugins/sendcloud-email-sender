@@ -21,3 +21,4 @@ Major features in SendCloud include:
 Upload the SendCloud plugin to your blog, Activate it.
 1, 2: You're done!
 == Changelog ==
+== Arbitrary section 1 ==
